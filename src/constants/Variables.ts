@@ -23,4 +23,10 @@ export const Variables = {
   ICON_SIZE_LARGE: scale(32),
   ICN_SIZE_TOP_TAB: scale(24),
   FAST_DELIVERY: 'hỏa tốc',
+  // Language
+  USER_LANGUAGE_KEY: 'language',
+  DEFAULT_LANGUAGE: 'vi',
+  // Address
+  CREATE_NEW_ADDRESS: '1',
+  SELECT_ADDRESS_FROM_DATA: '2',
 };
